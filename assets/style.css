@@ -4,6 +4,7 @@ body{
 header {
     border-bottom: #0804ee 2px solid;
     margin-bottom: 20px;
+    color: #0804ee;
     position: relative;
 }
 .navbartest {
